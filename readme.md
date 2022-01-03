@@ -3,11 +3,11 @@
 ## Overview:
 A simple link-shortner application.
 
-##Usage(locally)
+## Usage(locally)
 `$npm install && npm test `
 
 
-##Homepage:
+## Homepage:
 Click [here](https://linkchoppa.herokuapp.com/)
 
 
@@ -20,5 +20,5 @@ Click [here](https://linkchoppa.herokuapp.com/)
 |/slug goes here | visit a shortned link | GET |   |
 |/slug goes herer | delete a shortened url | |
 
-##Note
+## Note
 all end points return HTTP status code 404 when it encounters error.
