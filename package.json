@@ -1,0 +1,30 @@
+{
+  "name": "link-choppa",
+  "version": "0.0.1",
+  "description": "A link simple shortner  web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "Eurika Ormanel & Xirlorm",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EurikaOrmanel/link-choppa.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "link-shortner",
+    "crud"
+  ],
+  "bugs": {
+    "url": "https://github.com/EurikaOrmanel/link-choppa/issues"
+  },
+  "homepage": "https://github.com/EurikaOrmanel/link-choppa#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^5.13.14"
+  }
+}
