@@ -1,4 +1,4 @@
-# Link Chopper
+# Link Choppa
 
 ## Overview:
 A simple link-shortner application.
