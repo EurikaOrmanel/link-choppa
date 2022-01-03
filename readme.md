@@ -11,6 +11,8 @@ A simple link-shortner application.
 Click [here](https://linkchoppa.herokuapp.com/)
 
 
+Baseurl: https://linkchoppa.herokuapp.com/
+
 |Endpoint | Description | Method | Params |
 |---------|-------------|--------|--------|
 |/        | Home   | GET    |
